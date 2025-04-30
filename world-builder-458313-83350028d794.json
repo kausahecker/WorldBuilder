@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "world-builder-458313",
+  "private_key_id": "83350028d794d87b89f787e8921f10db2d18c593",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDCBqBkq18zr+l2\nUNszw4oNihzGMdKS/hoQXD1/Tnq+zx3ZYBQwVh7fVWb6aFnyJ8nY6cQWT214UoK2\nFUsCVRJOtGBVIlPjpSGSzUym0k4VYRKzJKhxvndvODzMP3DOZZ8U2NCvF2qOVPPl\nHKBSEm9ix01sCnTnSHIZ+vnBty9NS5PENQBekm1FPnY3b/FhuZd9mMxRgXdUFFjm\n82bqjz1JFDgQCQ00Xi02/AIkE06c5K+0XYTdQkPmX33q86WH+F+ap1FMnA5D2FX1\nxwjd6nrUQ9CwTRAmP8M6l7r1/1vwRMdkE6aeLYKG1tx7cXNuACNtcT1ABWZ6ah1Z\n/BWa/D6hAgMBAAECggEAFNHyNys+iYTYaAZQJ1NVxpMp+EiTYIucz2GehcEtobkG\n6nMJZ5BuOqfm53r4H+iOG9Ul4gD+7bjo5tINHQB0+PYZGjmXR+fJ3P9juMj7cQbc\nI1YNLztxhIFD4OTz3WoBMpL7fbZlDEXocA7s0zHAOxjI4Y2TstfOyqPoVhWqoUAJ\nk8ZbihmdZGGuuFfDsc1J3bgbEGa4ftpYWY/ZNmw/uFizdEsU8gh+QUBsdX8es7w+\nvd0YfHD7MNTavPsv9T0HTZ3YiCMk0KzqzIRBttANWCfDQjihqQn16HSvxnVhwWsp\nq94hbiLg/l+anVV8cqvO9uGyQ4cpFxNV8H2CHC0N2QKBgQDgIVpR5+ES36Hmf5Aa\nGc+MVFgDS3nEXxB1e49k++cgsYeFowLkv7XY1sEU+k/EtSXtdI1FJvd5Z9RnVnWl\nwPZfgxX+tFxjHtwfk32vdvJzQYqvOqRpex7tElM1aBmuYwfc60S6yH6IxyuTdJex\npvWkGEI+3ZnnnTZs6ZvgYu7xDQKBgQDdnW7BTa4KcGudWZxiym+LGN99TmfqFfu+\nuq+kS5yVylV2q+htQIgRCmxVxLU1BSRb2GZuuXXZqakLe7kZxXq6OwSohfM5pff9\nneS5e99TJ7uJUPgah/oyg2XNpNyD0tekH4U2tGsr3ZtExRqrnvPeTLt7yFl0MIed\nTDGXR8WW5QJ/bzAcnoVqIvLOXorp8gjb7cHp57iJr+F5SM8DVBWjk5R+ps03okN4\n8xmWr9F9wRgcuLAZZTTvkEryFFHQC2quzrM5NiJDsuicSw3gTCu2G3doVYXCCpIJ\nxZJRtSzvkJOQUwhkEEVmgHROKditaHRrZ/yg4I8OytgzJ9S8f5SU9QKBgBBj52AW\njaup+tuNWBqaXDuOYGEVHmxaqd7GUd011mPhrgZz2mHSJv4TpkWFod1E/xZn39OK\nleO+P4lg4iS8zUHewY5xMbbuxnOUbOkm9zJgOueB/IeBzQhVXX8jFUgOnPI/fou4\nNkDtR+GDLmDJBcJILImQHMWSHUWN8BD/NubdAoGAaIeDnM46iqx9elPCXjT30cGj\ngAr+urrVowM7PEM7rWJ0k9mZ9aNRvWfpnoFQ5+r4uw3owwFhM4WMuUT3drx4RAFm\neBp1kcD0ND1Lt85hseBt0dsauCR0oVcAC1Fp4yzBFMQjTddt9A5ImRrO7eG1UBSY\nWx70qEqglggUTDK5iQg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "worldbuilder@world-builder-458313.iam.gserviceaccount.com",
+  "client_id": "118093918747779741465",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/worldbuilder%40world-builder-458313.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
